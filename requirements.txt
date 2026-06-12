@@ -1,0 +1,67 @@
+# Core LLM
+openai>=1.100.0
+
+# LangChain Ecosystem
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-openai>=0.3.0
+
+# LangGraph (Multi-Agent Workflows)
+langgraph>=0.6.0
+
+# Tavily Search
+tavily-python>=0.7.0
+
+# Web Scraping
+beautifulsoup4>=4.13.0
+lxml>=6.0.0
+requests>=2.32.0
+
+# Async HTTP Requests
+httpx>=0.28.0
+aiohttp>=3.12.0
+
+# Environment Variables
+python-dotenv>=1.1.0
+
+# Data Validation
+pydantic>=2.11.0
+
+# Token Counting
+tiktoken>=0.11.0
+
+# Retry Logic
+tenacity>=9.1.0
+
+# Logging & Monitoring
+loguru>=0.7.0
+
+# Utilities
+typing-extensions>=4.14.0
+
+# Optional Data Handling
+pandas>=2.3.0
+numpy>=2.3.0
+
+# Optional HTML Parsing Helpers
+html5lib>=1.1
+
+# Optional Rich Terminal Output
+rich>=14.0.0
+
+# Optional Development Tools
+ipython>=9.4.0
+jupyter>=1.1.0
+streamlit>=1.35.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-groq>=0.1.0
+langgraph>=0.6.0
+tavily-python>=0.7.0
+beautifulsoup4>=4.13.0
+lxml>=6.0.0
+requests>=2.32.0
+python-dotenv>=1.1.0
+pydantic>=2.11.0
